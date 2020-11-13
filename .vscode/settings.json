@@ -1,5 +1,5 @@
 {
-  "staticWebApps.appSubpath": "/",
-  "staticWebApps.apiSubpath": "server",
-  "staticWebApps.appArtifactSubpath": "/dist"
+  "staticWebApps.appSubpath": "dist/course-manager",
+  "staticWebApps.apiSubpath": "/",
+  "staticWebApps.appArtifactSubpath": "/dist/coure-manager-build"
 }
